@@ -4,7 +4,6 @@ import { Routes, Route } from 'react-router-dom';
 import Navbar from './Componentes/Navbar';
 import 'slick-carousel/slick/slick.css'; 
 import 'slick-carousel/slick/slick-theme.css';
-import ImageCarousel from './Componentes/ImageCarousel';
 import CrearUsuario from './Paginas/CrearUsuario';
 import Home from './Paginas/Home';
 import IniciarSesion from './Paginas/IniciarSesion';
